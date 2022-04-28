@@ -1,10 +1,10 @@
 # Hallo I'm Lailatul Fitriyah 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LailatulFitriyah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lailatul-fitriyah-5964611a7/)](https://www.linkedin.com/in/lailatul-fitriyah-5964611a7/)
-[![Medium Badge](https://img.shields.io/badge/@danangharis-000000?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@mr.danangharissetiawan)](https://medium.com/@mr.danangharissetiawan)
-[![Twitter Badge](https://img.shields.io/badge/@danangharisset1-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Danangharisset1)](https://twitter.com/Danangharisset1)
-[![Instagram Badge](https://img.shields.io/badge/@mr.danang_haris-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mr.danang_haris/)](https://www.instagram.com/mr.danang_haris/)
-[![Gmail Badge](https://img.shields.io/badge/-mr.danangharissetiawan-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mr.danangharissetiawan@gmail.com)](mailto:mr.danangharissetiawan@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/@fitringer612-000000?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@fitringer612)](https://medium.com/@fitringer612)
+[![Twitter Badge](https://img.shields.io/badge/@fitringer612-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fitringer612)](https://twitter.com/fitringer612)
+[![Instagram Badge](https://img.shields.io/badge/@fitrifff_-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/fitrifff_/)](https://www.instagram.com/fitrifff_/)
+[![Gmail Badge](https://img.shields.io/badge/-fitringer612@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fitringer612@gmail.com)](mailto:fitringer612@gmail.com)
 
 
 I am an Indonesia-based Web Developer and Data Analyst with a purpose-driven creative mindset and a passion for learning and innovation.
