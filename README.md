@@ -30,21 +30,21 @@ Outside work, I occasionally blog on [Medium](https://medium.com/@fitringer612).
 <p>
   <tr>
     
-<td><img src="https://github-readme-stats.vercel.app/api?username=LailatulFitriyah&show_icons=true&hide_border=true&theme=radical&layout=compact" /></td>
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyifaAinnur&&layout=compact&langs_count=8&theme=radical&hide_border=true" height="195"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=fitri612&show_icons=true&hide_border=true&theme=radical&layout=compact" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitri612&&layout=compact&langs_count=8&theme=radical&hide_border=true" height="195"/></td>
   </tr>
 </p>
 
 
 ## CODING ACTIVITY 👨🏻‍💻
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SyifaAinnur&layout=compact&theme=chartreuse-dark&hide_border=true&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fitri612&layout=compact&theme=chartreuse-dark&hide_border=true&v=2" />
 </p>
 
 
 ## GITHUB PROFILE TROPHY 🏆
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=SyifaAinnur&margin-w=25&margin-h=25&column=10&theme=darkhub" />    
+  <img src="https://github-profile-trophy.vercel.app/?username=fitri612&margin-w=25&margin-h=25&column=10&theme=darkhub" />    
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> TOOLS AND FRAMEWORKS
