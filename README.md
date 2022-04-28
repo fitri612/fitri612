@@ -35,13 +35,6 @@ Outside work, I occasionally blog on [Medium](https://medium.com/@fitringer612).
   </tr>
 </p>
 
-
-## CODING ACTIVITY 👨🏻‍💻
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fitri612&layout=compact&theme=chartreuse-dark&hide_border=true&v=2" />
-</p>
-
-
 ## GITHUB PROFILE TROPHY 🏆
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=fitri612&margin-w=25&margin-h=25&column=10&theme=darkhub" />    
