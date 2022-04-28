@@ -1,6 +1,6 @@
 # Hallo I'm Lailatul Fitriyah 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/Lailatul-Fitriyah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lailatul-fitriyah-5964611a7/)](https://www.linkedin.com/in/lailatul-fitriyah-5964611a7/)
+[![Linkedin Badge](https://img.shields.io/badge/LailatulFitriyah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lailatul-fitriyah-5964611a7/)](https://www.linkedin.com/in/lailatul-fitriyah-5964611a7/)
 [![Medium Badge](https://img.shields.io/badge/@danangharis-000000?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@mr.danangharissetiawan)](https://medium.com/@mr.danangharissetiawan)
 [![Twitter Badge](https://img.shields.io/badge/@danangharisset1-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Danangharisset1)](https://twitter.com/Danangharisset1)
 [![Instagram Badge](https://img.shields.io/badge/@mr.danang_haris-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mr.danang_haris/)](https://www.instagram.com/mr.danang_haris/)
