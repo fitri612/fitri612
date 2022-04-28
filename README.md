@@ -47,14 +47,6 @@ Outside work, I occasionally blog on [Medium](https://medium.com/@fitringer612).
 <br />
 <br />
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Exploratory Data Analysis with Python for Beginner](https://dev.to/danangharissetiawan/exploratory-data-analysis-with-python-for-beginner-13kf)
-- [Tipe Data Abstract - Day 01](https://dev.to/danangharissetiawan/tipe-data-abstract-day-01-4lcd)
-- [Cara Beralih Versi Python Di Ubuntu](https://dev.to/danangharissetiawan/cara-beralih-versi-python-di-ubuntu-4h8)
-- [Port Scanner Dengan Python](https://dev.to/danangharissetiawan/port-scanner-dengan-python-40o0)
-<!-- BLOG-POST-LIST:END -->
-
 ### 📅 I'm an early date
 
 <!--START_SECTION:waka-->
@@ -66,8 +58,9 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
-[website]: https://risset.me
-[twitter]: https://twitter.com/Danangharisset1
-[instagram]: https://www.instagram.com/mr.danang_haris
-[linkedin]: https://www.linkedin.com/in/danangharis
-[webdevplaylist]: https://github.com/danangharissetiawan/danangharissetiawan
+
+
+[twitter]: https://twitter.com/fitringer612
+[instagram]: https://www.instagram.com/fitrifff_
+[linkedin]: https://www.linkedin.com/in/lailatul-fitriyah-5964611a7/
+[webdevplaylist]: https://github.com/fitri612/fitri612
