@@ -7,10 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-fitringer612@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fitringer612@gmail.com)](mailto:fitringer612@gmail.com)
 
 
-I am an Indonesia-based Web Developer and Data Analyst with a purpose-driven creative mindset and a passion for learning and innovation.
-Currently studying at [Universitas Dian Nuswantoro](https://dinus.ac.id/) majoring in computer science and currently focusing on web development and data analysis.
-Outside work, I occasionally blog on [Medium](https://medium.com/@mr.danangharissetiawan), [Dev.to](https://dev.to/danangharissetiawan) and on [My Blog](https://memories.risset.me).
-Other than that, I have great interests in martial arts, writing, and music, and also likes to drink ☕ [Coffee!](https://www.buymeacoffee.com/darisset) 🥰
+I am an Indonesia-based Web Developer with a purpose-driven creative mindset and a passion for learning and innovation.
+Currently studying at [Universitas Dian Nuswantoro](https://dinus.ac.id/) majoring in computer science and currently focusing on web development.
+Outside work, I occasionally blog on [Medium](https://medium.com/@fitringer612).
 
 
 <!-- <img align="right" src="https://media.giphy.com/media/BFDYVDaCi4X5oupjWP/giphy.gif"> -->
@@ -20,11 +19,10 @@ Other than that, I have great interests in martial arts, writing, and music, and
 ## I'am a Youth, Servant of Allah, Developer, and Student!!
 
 
-- 🔭 I just launched my first platform: [Just for fun! - RISSET][website]!
 - 🌱 Someday I will be successful 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: become an expert in a domain, technology or language
-- ⚡ Fun fact: I love coffee, handling cases, martial arts and playing guitar
+- ⚡ Fun fact: I love coffee, UI UX
 
 
 <br>
@@ -68,8 +66,6 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
-[website]: https://risset.me
-[twitter]: https://twitter.com/Danangharisset1
-[instagram]: https://www.instagram.com/mr.danang_haris
-[linkedin]: https://www.linkedin.com/in/danangharis
-[webdevplaylist]: https://github.com/danangharissetiawan/danangharissetiawan
+[twitter]: https://twitter.com/fitringer612
+[instagram]: https://www.instagram.com/fitrifff_
+[linkedin]: https://www.linkedin.com/in/lailatul-fitriyah-5964611a7/
