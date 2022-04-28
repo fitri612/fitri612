@@ -26,26 +26,45 @@ Outside work, I occasionally blog on [Medium](https://medium.com/@fitringer612).
 
 <br>
 
+## GITHUB STATS 📈
+<p>
+  <tr>
+    
+<td><img src="https://github-readme-stats.vercel.app/api?username=SyifaAinnur&show_icons=true&hide_border=true&theme=radical&layout=compact" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyifaAinnur&&layout=compact&langs_count=8&theme=radical&hide_border=true" height="195"/></td>
+  </tr>
+</p>
 
-### 🚀 **Languages and Tools**
 
-[<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][webdevplaylist]
-[<img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
-[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+## CODING ACTIVITY 👨🏻‍💻
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SyifaAinnur&layout=compact&theme=chartreuse-dark&hide_border=true&v=2" />
+</p>
 
-<br />
-<br />
+
+## GITHUB PROFILE TROPHY 🏆
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=SyifaAinnur&margin-w=25&margin-h=25&column=10&theme=darkhub" />    
+</p>
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> TOOLS AND FRAMEWORKS
+<p align="center">
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+       <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/gamedev.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+               <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+               <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+                            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             
+</p>
+
+# Heyy !! Look i have snake
+
+<img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
 
 ### 📅 I'm an early date
 
