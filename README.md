@@ -54,6 +54,11 @@ Outside work, I occasionally blog on [Medium](https://medium.com/@fitringer612).
              
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fitri612&layout=compact&theme=chartreuse-dark&hide_border=true&v=2" />
+</p>
+
+
 # Heyy !! Look i have snake
 
 <img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
