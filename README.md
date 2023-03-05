@@ -1,11 +1,16 @@
-# Hallo I'm Lailatul Fitriyah 👋
+<!-- # Hallo I'm Lailatul Fitriyah 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LailatulFitriyah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lailatul-fitriyah-5964611a7/)](https://www.linkedin.com/in/lailatul-fitriyah-5964611a7/)
 [![Medium Badge](https://img.shields.io/badge/@fitringer612-000000?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@fitringer612)](https://medium.com/@fitringer612)
 [![Twitter Badge](https://img.shields.io/badge/@fitringer612-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fitringer612)](https://twitter.com/fitringer612)
 [![Instagram Badge](https://img.shields.io/badge/@fitrifff_-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/fitrifff_/)](https://www.instagram.com/fitrifff_/)
 [![Gmail Badge](https://img.shields.io/badge/-fitringer612@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fitringer612@gmail.com)](mailto:fitringer612@gmail.com)
-
+ -->
+ 
+ <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<h1 align="center">fmt.println(" Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"> I'm Rizki Darmawan ")     </h1>
+<h3 align="center">A passionate fullstack web developer from Indonesia</h3>
+<hr />
 
 I am an Indonesia-based Web Developer with a purpose-driven creative mindset and a passion for learning and innovation.
 Currently studying at [Universitas Dian Nuswantoro](https://dinus.ac.id/) majoring in computer science and currently focusing on web development.
