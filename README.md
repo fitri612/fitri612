@@ -7,9 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-fitringer612@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fitringer612@gmail.com)](mailto:fitringer612@gmail.com)
  -->
  
- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<h1 align="center">fmt.println(" Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"> I'm Rizki Darmawan ")     </h1>
-<h3 align="center">A passionate fullstack web developer from Indonesia</h3>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<h1 align="center">fmt.println(" Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"> I'm Lailatul Fitriyah ")     </h1>
+<h3 align="center">A passionate Mobile and Web Developer from Indonesia</h3>
 <hr />
 
 I am an Indonesia-based Web Developer with a purpose-driven creative mindset and a passion for learning and innovation.
